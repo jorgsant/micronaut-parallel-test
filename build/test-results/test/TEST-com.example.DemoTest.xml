@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.DemoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-10T07:36:27" hostname="MacBook-Pro.local" time="0.02">
+  <properties/>
+  <testcase name="testItWorks()" classname="com.example.DemoTest" time="0.02"/>
+  <system-out><![CDATA[?[36m09:36:26.952?[0;39m ?[1;30m[ForkJoinPool-1-worker-2]?[0;39m ?[34mINFO ?[0;39m ?[35mi.m.context.env.DefaultEnvironment?[0;39m - Established active environments: [test]
+?[36m09:36:26.952?[0;39m ?[1;30m[ForkJoinPool-1-worker-1]?[0;39m ?[34mINFO ?[0;39m ?[35mi.m.context.env.DefaultEnvironment?[0;39m - Established active environments: [test]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
